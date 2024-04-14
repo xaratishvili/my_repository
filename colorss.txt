@@ -1,0 +1,7 @@
+red
+Green
+White
+black
+Pink
+Yellow
+Number of names with first letter uppercase: 4
